@@ -1,0 +1,20 @@
+{
+  "pipeline": {
+    "depth": "STANDARD",
+    "adversarial_dialectic": true,
+    "red_team": false,
+    "fact_check": true,
+    "seo_pass": true,
+    "token_budget": 32000,
+    "topic_brief": "Topic: $DOGE Legacy Strength in Meme Supercycle. Thesis: As the original meme king, $DOGE is seeing renewed technical breakout talk and positioning as the ultimate beneficiary of the Trump meme-coin conference hype, keeping the entire legacy meme sector elevated. Target audience: DOGE army veterans, Elon/X ecosystem followers, long-term meme holders, and swing traders riding established narratives.",
+    "thesis": "As the original meme king, $DOGE is the ultimate beneficiary of Trump meme-coin conference hype and a meme supercycle, keeping the entire legacy meme sector elevated through renewed technical breakout momentum.",
+    "thesis_confidence": "HIGH",
+    "novelty_score": 4,
+    "contentiousness_score": 3,
+    "scope_score": 3,
+    "composite_score": 3.35,
+    "budget_adjusted": false,
+    "budget_adjustment_reason": null,
+    "routed_at": "2026-04-10T00:00:00Z"
+  }
+}
