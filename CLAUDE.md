@@ -8,7 +8,7 @@ Project files:
 - article_style_guide.md — authoritative style rules, enforced by all agents
 .claude/skills/article_style_guide.md
 - pipeline_learnings.md — cross-run calibration log, read by triage at each run start
-
+.claude/skills/pipeline_learnings.md
 Default audience: practitioner
 Default depth: auto-triage (scored by complexity-triage skill)
 
